@@ -507,6 +507,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-meetupcom { border-color: #111111; }
+  #meetupcom { background-color: #111111 !important; color: #f8f8f8; }
+  #meetupcom a { color: #f8f8f8; }
+  #meetupcom .sectiondivider { color: #111111; }
+
+  
+  
+  
   nav .p-talk { border-color: #fab125; }
   #talk { background-color: #fab125 !important; color: #f8f8f8; }
   #talk a { color: #f8f8f8; }
