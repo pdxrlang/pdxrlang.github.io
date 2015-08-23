@@ -21,7 +21,7 @@ description: "Homepage for the Portland R User Group"
 source_link: "https://github.com/pdxrlang/pdxrlang.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-66650971-1
 
 
 ### template colors, used site-wide via css ###
