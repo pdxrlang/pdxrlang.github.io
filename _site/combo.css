@@ -523,6 +523,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-studygroup { border-color: #c869bf; }
+  #studygroup { background-color: #c869bf !important; color: #f8f8f8; }
+  #studygroup a { color: #f8f8f8; }
+  #studygroup .sectiondivider { color: #c869bf; }
+
+  
+  
+  
   nav .p-meetups { border-color: #0fbfcf; }
   #meetups { background-color: #0fbfcf !important; color: #f8f8f8; }
   #meetups a { color: #f8f8f8; }
@@ -586,7 +594,7 @@ hr {
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
-  font-size: 17px;
+  font-size: 20px;
   padding: 0 5%;
 }
 .container ol, .container ul { padding: 0 8%; }
