@@ -15,12 +15,14 @@ Check out below for upcoming meetups.
 
 ### Upcoming meetups
 
-* 2015-09-19 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/224830992/)
+* 2015-10-03 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225662958/)
 
 ### Past meetups
 
-* 2015-09-12 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/224830992/)
-* 2015-09-05 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/224830992/)
+* 2015-09-26 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225524674/)
+* 2015-09-19 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225315374/)
+* 2015-09-12 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225210391/)
+* 2015-09-05 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225004711/)
 * 2015-08-29 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/224830992/)
 * 2015-08-22 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/224662323/)
 * 2015-08-15 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/224536578/)
