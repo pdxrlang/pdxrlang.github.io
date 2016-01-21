@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "Raleway" "HelveticaNeue-Light", Arial, sans-serif;
+		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -365,6 +365,7 @@ span.lineno {
 .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
 
+
 /* -----------------------------------*/
 /* ----- 960px wide fancy grid! ----- */
 /* -----------------------------------*/
@@ -594,7 +595,7 @@ hr {
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
-  font-size: 20px;
+  font-size: 17px;
   padding: 0 5%;
 }
 .container ol, .container ul { padding: 0 8%; }
@@ -655,7 +656,7 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:3px solid;
-  padding: 3px 0;
+  padding: 3px;
   *display:inline;
   zoom:1;
   line-height:normal;
