@@ -9,16 +9,22 @@ fa-icon: graduation-cap
 
 This is a sub-group of `pdxrlang`, that is essentially an R study group. Right now, they are meeting to go through the Coursera John Hopkin's R Programming course (https://www.coursera.org/course/rprog). This group is organized by Audrey Julian.
 
-They generally meet once every week, on the weekend. 
+They generally meet once every week, on the weekend.
 
 Check out below for upcoming meetups.
 
 ### Upcoming meetups
 
-* 2015-11-01 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/226399409/)
+* 2016-01-23 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/228170325/)
 
 ### Past meetups
 
+* 2016-01-16 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/227415321/)
+* 2015-12-12 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/227286722/)
+* 2015-12-05 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/227080789/)
+* 2015-11-28 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/226952860/)
+* 2015-11-07 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/226502873/)
+* 2015-11-01 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/226399409/)
 * 2015-10-17 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225976512/)
 * 2015-10-10 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225815117/)
 * 2015-10-03 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/225662958/)
