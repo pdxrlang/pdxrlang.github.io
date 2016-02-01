@@ -4,7 +4,7 @@ layout: default
 
 ## Study group
 
-This is a sub-group of `pdxrlang`, that is essentially an R study group. Right now, they are meeting to go through the Coursera John Hopkin's R Programming course (https://www.coursera.org/course/rprog). This group is organized by Audrey Julian.
+This is a sub-group of `pdxrlang`, that is essentially an R study group. Right now, they are meeting to go through the [Coursera John Hopkin's R Programming course](https://www.coursera.org/course/rprog). This group is organized by Audrey Julian.
 
 They generally meet once every week, on the weekend.
 
