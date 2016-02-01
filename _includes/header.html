@@ -1,0 +1,96 @@
+<header class="header">
+	<div class="header-container">
+		<div class="nav">
+			{% if page.path == "index.html" %}
+			<span class="title">
+				<li>
+					<a href="/">home</a>
+				</li>
+			</span>
+			{% else %}
+				<li>
+					<a href="/">home</a>
+				</li>
+			{% endif %}
+
+			{% if page.path == "meetups.html" %}
+			<span class="title">
+				<li>
+					<a href="/meetups">meetups</a>
+				</li>
+			</span>
+			{% else %}
+				<li>
+					<a href="/meetups">meetups</a>
+				</li>
+			{% endif %}
+
+			{% if page.path == "studygroup.html" %}
+			<span class="title">
+				<li>
+					<a href="/studygroup">studygroup</a>
+				</li>
+			</span>
+			{% else %}
+				<li>
+					<a href="/studygroup">studygroup</a>
+				</li>
+			{% endif %}
+
+			{% if page.path == "talk.html" %}
+			<span class="title">
+				<li>
+					<a href="/talk">talk</a>
+				</li>
+			</span>
+			{% else %}
+				<li>
+					<a href="/talk">talk</a>
+				</li>
+			{% endif %}
+
+			{% if page.path == "meetupcom.html" %}
+			<span class="title">
+				<li>
+					<a href="/meetupcom">meetup.com</a>
+				</li>
+			</span>
+			{% else %}
+				<li>
+					<a href="/meetupcom">meetup.com</a>
+				</li>
+			{% endif %}
+
+			{% if page.path == "about.html" %}
+			<span class="title">
+				<li>
+					<a href="/about">about</a>
+				</li>
+			</span>
+			{% else %}
+				<li>
+					<a href="/about">about</a>
+				</li>
+			{% endif %}
+		</div>
+
+		<div class="description"> {{ site.motto }} </div>
+		<ul class="social-links">
+			<li>
+				<a href="https://github.com/{{ site.github_username }}" title="Github">
+					<img width="19px" height="19px" src="/images/github.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="/feed.xml" title="RSS">
+					<img width="19px" height="19px" src="/images/rss.png"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+					<img width="19px" height="19px" src="/images/twitter.png"/>
+				</a>
+			</li>
+		</ul>
+	</div>
+</header>

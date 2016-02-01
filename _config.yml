@@ -1,36 +1,15 @@
----
+# Site settings
+title: pdxrlang
+motto: PDX R Group
+email: myrmecocystus@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: pdxrlang
+github_username:  PortlandRUserGroup
+permalink: /
 
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
-timezone: null
-lsi: false
+# Build settings
 markdown: kramdown
-# highlighter: pygments
-
-
-### content configuration ###
-title:       "pdxrlang - Portland R User Group"
-keywords:    "pdxrlang, R, pdx, portland"
-description: "Homepage for the Portland R User Group"
-source_link: "https://github.com/pdxrlang/pdxrlang.github.io"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: UA-66650971-1
-
-
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-
