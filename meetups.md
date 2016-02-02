@@ -6,7 +6,7 @@ layout: default
 
 ### Upcoming meetups
 
-* none right now...
+* 2016-02-18 - [Application of analytics for optimizing wireless plans for IoT devices](http://www.meetup.com/portland-r-user-group/events/228542752/)
 
 ### Past meetups
 

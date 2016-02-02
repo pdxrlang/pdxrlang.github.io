@@ -12,10 +12,11 @@ Check out below for upcoming meetups.
 
 ### Upcoming meetups
 
-* 2016-01-23 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/228170325/)
+* None planned
 
 ### Past meetups
 
+* 2016-01-23 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/228170325/)
 * 2016-01-16 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/227415321/)
 * 2015-12-12 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/227286722/)
 * 2015-12-05 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/227080789/)
