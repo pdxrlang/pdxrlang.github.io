@@ -7,6 +7,8 @@ layout: default
 ### Upcoming meetups
 
 * 2016-03-24 - [R at Microsoft and R in Visual Studio](http://www.meetup.com/portland-r-user-group/events/229081827/)
+* 2016-04-05 - [NLP meets Politics-Experiment­s w/ Word-Vectors and 2016 Campaign Debate Rhetoric](http://www.meetup.com/portland-r-user-group/events/229130207/)
+* 2016-05-09 - [Collaborative coding with GitHub and RStudio server](http://www.meetup.com/portland-r-user-group/events/229099024/)
 
 ### Past meetups
 
