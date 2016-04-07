@@ -6,11 +6,12 @@ layout: default
 
 ### Upcoming meetups
 
-* 2016-04-05 - [NLP meets Politics-Experiment­s w/ Word-Vectors and 2016 Campaign Debate Rhetoric](http://www.meetup.com/portland-r-user-group/events/229130207/)
 * 2016-05-09 - [Collaborative coding with GitHub and RStudio server](http://www.meetup.com/portland-r-user-group/events/229099024/)
+* 2016-07-12 - [Two talks: A/B testing analysis and http requests](http://www.meetup.com/portland-r-user-group/events/230200855/)
 
 ### Past meetups
 
+* 2016-04-05 - [NLP meets Politics-Experiment­s w/ Word-Vectors and 2016 Campaign Debate Rhetoric](http://www.meetup.com/portland-r-user-group/events/229130207/)
 * 2016-03-24 - [R at Microsoft and R in Visual Studio](http://www.meetup.com/portland-r-user-group/events/229081827/)
 * 2016-02-18 - [Application of analytics for optimizing wireless plans for IoT devices](http://www.meetup.com/portland-r-user-group/events/228542752/)
 * 2015-11-18 - [R Workshop - Data Modeling with Caret](http://www.meetup.com/portland-r-user-group/events/226400619/)
