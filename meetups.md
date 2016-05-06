@@ -8,7 +8,7 @@ layout: default
 
 * 2016-05-09 - [Collaborative coding with GitHub and RStudio server](http://www.meetup.com/portland-r-user-group/events/229099024/)
 * 2016-07-12 - [Two talks: A/B testing analysis and http requests](http://www.meetup.com/portland-r-user-group/events/230200855/)
-* 2016-08-09 - Title and meetup page coming soon...
+* 2016-08-09 - [Probabilistic Approaches to Multi-dimensional Fuzzy Joins: A GeoSpatial Example](http://www.meetup.com/portland-r-user-group/events/230860024/)
 
 ### Past meetups
 
