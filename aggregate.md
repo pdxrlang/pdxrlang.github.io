@@ -6,6 +6,7 @@ layout: default
 
 ### Upcoming
 
+* 2016-05-31 - [aggregate: meet, greet, learn, collaborate](http://www.meetup.com/portland-r-user-group/events/231057729/)
 
 ### Past
 
