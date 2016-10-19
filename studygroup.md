@@ -12,6 +12,8 @@ Check out below for upcoming meetups.
 
 ### Upcoming meetups
 
+Coming soon ...
+
 ### Past meetups
 
 * 2016-04-23 - [John Hopkins Data Specialization @ Coursera](http://www.meetup.com/portland-r-user-group/events/230365583/)

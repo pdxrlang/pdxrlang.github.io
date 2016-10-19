@@ -4,12 +4,20 @@ layout: default
 
 ## Aggregate
 
+`aggregate` is a sub-meetup of the Portland R Meetup group.
+
+These meetups are a smaller group of people, usually a dozen or so people.
+
+It's a more intimate group, ideal for actually meeting people,
+getting help with your code, sharing stories, and networking.
+
 ### Upcoming
 
-* 2016-10-18 - [aggregate: meet, greet, learn, collaborate](http://www.meetup.com/portland-r-user-group/events/234177763/)
+Coming soon ...
 
 ### Past
 
+* 2016-10-18 - [aggregate: meet, greet, learn, collaborate](http://www.meetup.com/portland-r-user-group/events/234177763/)
 * 2016-08-24 - [aggregate: meet, greet, learn, collaborate](http://www.meetup.com/portland-r-user-group/events/233121100/)
 * 2016-08-02 - [aggregate: meet, greet, learn, collaborate](http://www.meetup.com/portland-r-user-group/events/232134520/)
 * 2016-06-22 - [aggregate: meet, greet, learn, collaborate](http://www.meetup.com/portland-r-user-group/events/231720260/)
