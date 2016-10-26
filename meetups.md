@@ -6,10 +6,11 @@ layout: default
 
 ### Upcoming meetups
 
-* 2016-10-25 - [Tim Kaye: Fun With Data Streams in R](http://www.meetup.com/portland-r-user-group/events/233946514/)
+Coming soon ...
 
 ### Past meetups
 
+* 2016-10-25 - [Tim Kaye: Fun With Data Streams in R](http://www.meetup.com/portland-r-user-group/events/233946514/)
 * 2016-10-10 - [Hadley Wickham - Data science with R](http://www.meetup.com/portland-r-user-group/events/232680753/) ---- [Video](https://www.youtube.com/watch?v=K-ss_ag2k9E)
 * 2016-09-21 - [Robert Dodier: Introduction to Bayesian inference in R](http://www.meetup.com/portland-r-user-group/events/233144774/)
 * 2016-08-17 - [Chester Ismay: Creating and using templates in R Markdown](http://www.meetup.com/portland-r-user-group/events/231100247/) ---- [Video](https://www.youtube.com/watch?v=3YTxGDoBeS0)
