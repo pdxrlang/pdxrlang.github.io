@@ -13,3 +13,7 @@ We aim to have meetups once per month.
 Follow news about the group on Twitter at [`@pdxrlang`](https://twitter.com/pdxrlang)
 
 Join other pdxrlang'ers and other portland area data science folks at our slack <https://pdxdata.slack.com>
+<br><br>
+
+### Supported by:
+<img src="images/RConsortium_Horizontal_Pantone.png" width="300">
