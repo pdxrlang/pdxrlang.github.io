@@ -6,7 +6,7 @@ layout: default
 
 ### Upcoming meetups
 
-Coming soon ...
+* 2016-12-07 - [shiny night: tutorial and use cases](https://www.meetup.com/portland-r-user-group/events/235649828/)
 
 ### Past meetups
 
