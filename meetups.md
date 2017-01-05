@@ -8,6 +8,7 @@ layout: default
 
 * 2017-01-10 - [R and Machine Learning](https://www.meetup.com/Women-Who-Code-Portland/events/235867242/) - Joint meetup with [Women Who Code Portland](https://www.meetup.com/Women-Who-Code-Portland/)
 * 2017-01-12 - [Shiny talk night](https://www.meetup.com/portland-r-user-group/events/236182887/)
+* 2017-02-13 - [Text mining & association rule mining in R to enhance public health surveillance](https://www.meetup.com/portland-r-user-group/events/236703908/)
 
 ### Past meetups
 
