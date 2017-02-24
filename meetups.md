@@ -6,11 +6,11 @@ layout: default
 
 ### Upcoming meetups
 
-* 2017-02-13 - [Text mining & association rule mining in R to enhance public health surveillance](https://www.meetup.com/portland-r-user-group/events/236703908/)
 * 2017-03-22 - [Andrew Flowers: The Six Types of Data Journalism Stories](https://www.meetup.com/portland-r-user-group/events/237506231/)
 
 ### Past meetups
 
+* 2017-02-13 - [Text mining & association rule mining in R to enhance public health surveillance](https://www.meetup.com/portland-r-user-group/events/236703908/)
 * 2017-01-10 - [R and Machine Learning](https://www.meetup.com/Women-Who-Code-Portland/events/235867242/) - Joint meetup with [Women Who Code Portland](https://www.meetup.com/Women-Who-Code-Portland/)
 * 2016-12-07 - [shiny night: tutorial and use cases](https://www.meetup.com/portland-r-user-group/events/235649828/)
 * 2016-10-25 - [Tim Kaye: Fun With Data Streams in R](http://www.meetup.com/portland-r-user-group/events/233946514/)
