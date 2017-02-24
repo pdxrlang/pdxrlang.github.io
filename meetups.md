@@ -7,6 +7,7 @@ layout: default
 ### Upcoming meetups
 
 * 2017-03-22 - [Andrew Flowers: The Six Types of Data Journalism Stories](https://www.meetup.com/portland-r-user-group/events/237506231/)
+* 2017-04-06 - [Talk night: Jasmine Dumas and Lina Gao](https://www.meetup.com/portland-r-user-group/events/236125171/)
 
 ### Past meetups
 
