@@ -6,7 +6,8 @@ layout: default
 
 ### Upcoming meetups
 
-Coming soon ...
+* 2017-05-10 - [Symposium on Data Science and Elections](https://www.meetup.com/portland-r-user-group/events/239592848/)
+* 2017-05-30 - [Chester Ismay: Creating the fivethirtyeight R data package](https://www.meetup.com/portland-r-user-group/events/239484692/)
 
 ### Past meetups
 
