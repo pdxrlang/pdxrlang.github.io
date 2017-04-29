@@ -4,13 +4,11 @@ layout: default
 
 <div class="alert">
 	<h1>Join us at the first <br><a href="https://cascadiarconf.com/">Cascadia R Conference</a></h1>
-  <h2>Submit a Talk!</h2>
+  <h2>Tickets are on sale</h2>
   <br>
   <i class="fa fa-hand-o-down fa-4x"></i>
   <br>
-  <h2><a href="https://bit.ly/cascadiarconf-cfp">bit.ly/cascadiarconf-cfp</a></h2>
-  <br>
-  <h2>Deadline: April 24, 2017</h2>
+  <h2><a href="https://cascadiarconf.com/tickets/">cascadiarconf.com/tickets</a></h2>
 </div>
 
 <br><br>
