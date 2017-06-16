@@ -2,18 +2,7 @@
 layout: default
 ---
 
-<div class="alert">
-	<h1>Join us at the first <br><a href="https://cascadiarconf.com/">Cascadia R Conference</a></h1>
-  <h2>Tickets are on sale</h2>
-  <br>
-  <i class="fa fa-hand-o-down fa-4x"></i>
-  <br>
-  <h2><a href="https://cascadiarconf.com/tickets/">cascadiarconf.com/tickets</a></h2>
-</div>
-
-<br><br>
-<hr>
-<br><br>
+<br>
 
 <center><h1><strong>pdxrlang</strong></h1></center>
 
