@@ -6,10 +6,11 @@ layout: default
 
 ### Upcoming meetups
 
-* 2017-05-30 - [Chester Ismay: Creating the fivethirtyeight R data package](https://www.meetup.com/portland-r-user-group/events/239484692/)
+Coming soon ...
 
 ### Past meetups
 
+* 2017-05-30 - [Chester Ismay: Creating the fivethirtyeight R data package](https://www.meetup.com/portland-r-user-group/events/239484692/)
 * 2017-05-10 - [Symposium on Data Science and Elections](https://www.meetup.com/portland-r-user-group/events/239592848/)
 * 2017-04-06 - [Talk night: Jasmine Dumas and Lina Gao](https://www.meetup.com/portland-r-user-group/events/236125171/)
 * 2017-03-22 - [Andrew Flowers: The Six Types of Data Journalism Stories](https://www.meetup.com/portland-r-user-group/events/237506231/)
