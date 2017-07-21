@@ -6,10 +6,11 @@ layout: default
 
 ### Upcoming meetups
 
-* 2017-07-11 - [Ted Laderas: How to not be afraid of your data - teaching EDA using Shiny](https://www.meetup.com/portland-r-user-group/events/240846589/)
+coming soon ...
 
 ### Past meetups
 
+* 2017-07-11 - [Ted Laderas: How to not be afraid of your data - teaching EDA using Shiny](https://www.meetup.com/portland-r-user-group/events/240846589/)
 * 2017-05-30 - [Chester Ismay: Creating the fivethirtyeight R data package](https://www.meetup.com/portland-r-user-group/events/239484692/) ---- [Video](https://www.youtube.com/watch?v=UUc5u0NOvhg&t=2s)
 * 2017-05-10 - [Symposium on Data Science and Elections](https://www.meetup.com/portland-r-user-group/events/239592848/)
 * 2017-04-06 - [Talk night: Jasmine Dumas and Lina Gao](https://www.meetup.com/portland-r-user-group/events/236125171/)

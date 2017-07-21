@@ -13,10 +13,11 @@ getting help with your code, sharing stories, and networking.
 
 ### Upcoming
 
-coming soon ...
+* 2017-08-16 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/241883694/)
 
 ### Past
 
+* 2017-07-19 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/240995059/)
 * 2017-06-15 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/240454471/)
 * 2017-04-19 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/238569772/)
 * 2017-02-22 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/236220667/)
