@@ -6,7 +6,7 @@ layout: default
 
 ### Upcoming meetups
 
-coming soon ...
+* 2017-08-23 - [useR 2017 Recap!](https://www.meetup.com/portland-r-user-group/events/242314927/)
 
 ### Past meetups
 

@@ -7,11 +7,9 @@ layout: default
 `lunchR` is smallish group of people, having lunch, talking R,
 data, stats, whatevs.
 
-We haven't had any yet. Coming soon.
-
 ### Upcoming
 
-coming soon ...
+* 2017-08-23 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/241918971/)
 
 ### Past
 
