@@ -6,10 +6,12 @@ layout: default
 
 ### Upcoming meetups
 
-* 2017-08-23 - [useR 2017 Recap!](https://www.meetup.com/portland-r-user-group/events/242314927/)
+Coming soon ...
 
 ### Past meetups
 
+* 2017-09-14 - [Up and running with blogdown](https://www.meetup.com/preview/portland-r-user-group/events/242600475)
+* 2017-08-23 - [useR 2017 Recap!](https://www.meetup.com/portland-r-user-group/events/242314927/)
 * 2017-07-11 - [Ted Laderas: How to not be afraid of your data - teaching EDA using Shiny](https://www.meetup.com/portland-r-user-group/events/240846589/)
 * 2017-05-30 - [Chester Ismay: Creating the fivethirtyeight R data package](https://www.meetup.com/portland-r-user-group/events/239484692/) ---- [Video](https://www.youtube.com/watch?v=UUc5u0NOvhg&t=2s)
 * 2017-05-10 - [Symposium on Data Science and Elections](https://www.meetup.com/portland-r-user-group/events/239592848/)
