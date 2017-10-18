@@ -13,7 +13,7 @@ getting help with your code, sharing stories, and networking.
 
 ### Upcoming
 
-...
+* 2017-11-07 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/244320932/)
 
 ### Past
 
