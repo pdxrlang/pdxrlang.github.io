@@ -11,7 +11,7 @@ data, stats, whatevs.
 
 <!-- Coming soon ... -->
 
-* 2018-02-05 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/247656593/)
+* 2018-03-06 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/247656593/)
 
 ### Past
 
