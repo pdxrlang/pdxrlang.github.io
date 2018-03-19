@@ -6,13 +6,14 @@ layout: default
 
 ### Upcoming meetups
 
-<!-- Coming soon ... -->
+* 2018-03-27 - [R in industry night](https://www.meetup.com/portland-r-user-group/events/248703297/)
 
-* 2018-02-26 - [rstudio::conf - Lightning talks from conference attendees](https://www.meetup.com/portland-r-user-group/events/247363596/)
-* 2018-03-06 - [Shiny workshop](https://www.meetup.com/portland-r-user-group/events/247752115/)
+<!-- Coming soon ... -->
 
 ### Past meetups
 
+* 2018-02-26 - [rstudio::conf - Lightning talks from conference attendees](https://www.meetup.com/portland-r-user-group/events/247363596/)
+* 2018-03-06 - [Shiny workshop](https://www.meetup.com/portland-r-user-group/events/247752115/)
 * 2018-01-16 - [infer: a package for tidy statistical inference](https://www.meetup.com/portland-r-user-group/events/246102554/)
 * 2017-10-16 - [Text Mining with Tidy Data Principles with Julia Silge](https://www.meetup.com/portland-r-user-group/events/243498840/)
 * 2017-09-14 - [Up and running with blogdown](https://www.meetup.com/portland-r-user-group/events/242600475) ---- [Video](https://www.youtube.com/watch?v=edyzTo3DF4U)

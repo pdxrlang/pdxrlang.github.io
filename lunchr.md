@@ -9,12 +9,11 @@ data, stats, whatevs.
 
 ### Upcoming
 
-<!-- Coming soon ... -->
-
-* 2018-03-06 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/247656593/)
+Coming soon ...
 
 ### Past
 
+* 2018-03-06 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/247656593/)
 * 2018-02-05 [noon @ Bambuza](https://www.meetup.com/portland-r-user-group/events/246654046)
 * 2017-12-05 [noon @ Kalé](https://www.meetup.com/portland-r-user-group/events/245289239)
 * 2017-10-25 [noon @ Laughing Planet Cafe](https://www.meetup.com/portland-r-user-group/events/244320785)
