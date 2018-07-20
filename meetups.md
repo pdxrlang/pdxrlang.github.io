@@ -6,12 +6,15 @@ layout: default
 
 ### Upcoming meetups
 
-* 2018-03-27 - [R in industry night](https://www.meetup.com/portland-r-user-group/events/248703297/)
+* 2018-07-24 - [useR 2018 Watch Party](https://www.meetup.com/portland-r-user-group/events/252918702/)
 
 <!-- Coming soon ... -->
 
 ### Past meetups
 
+* 2018-05-17 - [Talk night: slack and tidy](https://www.meetup.com/portland-r-user-group/events/250257373/)
+* 2018-05-10 - [Symposium on Data Science and Civic Data](https://www.meetup.com/portland-r-user-group/events/250075408/)
+* 2018-03-27 - [R in industry night](https://www.meetup.com/portland-r-user-group/events/248703297/)
 * 2018-02-26 - [rstudio::conf - Lightning talks from conference attendees](https://www.meetup.com/portland-r-user-group/events/247363596/)
 * 2018-03-06 - [Shiny workshop](https://www.meetup.com/portland-r-user-group/events/247752115/)
 * 2018-01-16 - [infer: a package for tidy statistical inference](https://www.meetup.com/portland-r-user-group/events/246102554/)
