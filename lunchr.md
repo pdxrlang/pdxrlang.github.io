@@ -9,7 +9,9 @@ data, stats, whatevs.
 
 ### Upcoming
 
-Coming soon ...
+* 2018-09-18 [noon @ Laughing Planet](https://www.meetup.com/portland-r-user-group/events/253816995/)
+
+<!-- Coming soon ... -->
 
 ### Past
 
