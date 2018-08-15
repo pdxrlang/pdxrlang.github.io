@@ -9,12 +9,11 @@ data, stats, whatevs.
 
 ### Upcoming
 
-* 2018-08-14 [noon @ Riyadh’s Lebanese Restaurant](https://www.meetup.com/portland-r-user-group/events/252369697/)
-
-<!-- Coming soon ... -->
+Coming soon ...
 
 ### Past
 
+* 2018-08-14 [noon @ Riyadh’s Lebanese Restaurant](https://www.meetup.com/portland-r-user-group/events/252369697/)
 * 2018-07-18 [noon @ Boke Bowl](https://www.meetup.com/portland-r-user-group/events/252369043/)
 * 2018-06-07 [noon @ Director's Park](https://www.meetup.com/portland-r-user-group/events/250077668/)
 * 2018-05-08 [noon @ Elephants Delicatessen](https://www.meetup.com/portland-r-user-group/events/249434728/)
