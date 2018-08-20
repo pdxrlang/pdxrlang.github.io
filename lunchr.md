@@ -10,6 +10,7 @@ data, stats, whatevs.
 ### Upcoming
 
 * 2018-09-18 [noon @ Laughing Planet](https://www.meetup.com/portland-r-user-group/events/253816995/)
+* 2018-10-10 [noon @ MOD Pizza](https://www.meetup.com/portland-r-user-group/events/253962778/)
 
 <!-- Coming soon ... -->
 
