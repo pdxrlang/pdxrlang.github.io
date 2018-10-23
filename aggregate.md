@@ -17,6 +17,7 @@ Coming soon ...
 
 ### Past
 
+* 2018-10-16 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/253818426/)
 * 2018-01-23 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/245709001/)
 * 2017-12-19 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/245289388/)
 * 2017-11-07 - [aggregate: meet, greet, learn, collaborate](https://www.meetup.com/portland-r-user-group/events/244320932/)

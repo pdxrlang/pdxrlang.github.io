@@ -6,12 +6,11 @@ layout: default
 
 ### Upcoming meetups
 
-* 2018-09-27 - [R Package Development Workshop](https://www.meetup.com/portland-r-user-group/events/253797396/)
-
-<!-- Coming soon ... -->
+Coming soon ...
 
 ### Past meetups
 
+* 2018-09-27 - [R Package Development Workshop](https://www.meetup.com/portland-r-user-group/events/253797396/)
 * 2018-08-14 - [OHSU Data Viz Lab Talks Night](https://www.meetup.com/portland-r-user-group/events/253069227/)
 * 2018-07-24 - [useR 2018 Watch Party](https://www.meetup.com/portland-r-user-group/events/252918702/)
 * 2018-05-17 - [Talk night: slack and tidy](https://www.meetup.com/portland-r-user-group/events/250257373/)
