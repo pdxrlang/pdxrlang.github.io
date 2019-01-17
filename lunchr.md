@@ -9,12 +9,11 @@ data, stats, whatevs.
 
 ### Upcoming
 
-* 2019-01-03 [noon @ Teote](https://www.meetup.com/portland-r-user-group/events/257168228/?isFirstPublish=true)
-
-<!-- Coming soon ... -->
+Coming soon ...
 
 ### Past
 
+* 2019-01-03 [noon @ Teote](https://www.meetup.com/portland-r-user-group/events/257168228/?isFirstPublish=true)
 * 2018-12-04 [noon @ Marukin Ramen](https://www.meetup.com/portland-r-user-group/events/256443629/)
 * 2018-11-07 [noon @ Elephants Delicatessen](https://www.meetup.com/portland-r-user-group/events/255779669)
 * 2018-09-18 [noon @ Laughing Planet](https://www.meetup.com/portland-r-user-group/events/253816995/)
