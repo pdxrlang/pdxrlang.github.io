@@ -6,7 +6,9 @@ layout: default
 
 ### Upcoming meetups
 
-Coming soon ...
+* 2019-03-12 - [Introduction to Spatial Data Analysis with R](https://www.meetup.com/portland-r-user-group/events/258271365/)
+
+<!-- Coming soon ... -->
 
 ### Past meetups
 
