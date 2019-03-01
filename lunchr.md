@@ -9,7 +9,9 @@ data, stats, whatevs.
 
 ### Upcoming
 
-Coming soon ...
+* 2019-03-19 [noon @ Pine State Biscuits on SE Division](https://www.meetup.com/portland-r-user-group/events/258686920/)
+
+<!-- Coming soon ... -->
 
 ### Past
 

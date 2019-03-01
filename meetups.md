@@ -6,6 +6,7 @@ layout: default
 
 ### Upcoming meetups
 
+* 2019-03-06 - [rstudio::conf 2019 Watch Party](https://www.meetup.com/portland-r-user-group/events/259131433/)
 * 2019-03-12 - [Introduction to Spatial Data Analysis with R](https://www.meetup.com/portland-r-user-group/events/258271365/)
 
 <!-- Coming soon ... -->
