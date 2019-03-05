@@ -8,6 +8,7 @@ layout: default
 
 * 2019-03-06 - [rstudio::conf 2019 Watch Party](https://www.meetup.com/portland-r-user-group/events/259131433/)
 * 2019-03-12 - [Introduction to Spatial Data Analysis with R](https://www.meetup.com/portland-r-user-group/events/258271365/)
+* 2019-04-30 - [Object Oriented Systems in R: S3, S4, and R6](https://www.meetup.com/portland-r-user-group/events/259511234/)
 
 <!-- Coming soon ... -->
 
